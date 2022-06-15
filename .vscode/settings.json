@@ -1,0 +1,6 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 13.5,
+    
+    "python.defaultInterpreterPath": "/home/tianru/anaconda3/envs/pytorch/bin/python3.6",
+}
